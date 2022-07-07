@@ -1,0 +1,41 @@
+.footer {
+  background-color: purple;
+  position: relative;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+  padding-top: 20px;
+  padding-left: 30px;
+  padding-right: 30px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+}
+
+.main-footer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.list {
+  list-style: none;
+}
+
+.social-media {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.copyright {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.copyright-text {
+  font-size: 10px;
+}

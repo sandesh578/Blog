@@ -1,0 +1,14 @@
+# Logs
+logs
+*.log
+
+# Dependency directories
+node_modules/
+
+# environment variables
+.env.dev
+
+#vscode
+.vscode
+
+

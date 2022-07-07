@@ -1,0 +1,9 @@
+.postForm {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 15px;
+  border: 2px solid rgb(58, 9, 192);
+  margin: 15px;
+  border-radius: 5px;
+}
